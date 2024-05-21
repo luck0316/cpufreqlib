@@ -1,0 +1,17 @@
+﻿  cpu.cpp
+  cpufreqlib.c
+C:\Users\admin\Desktop\ces\cpu\src\cpufreqlib.c(56,5): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\Users\admin\Desktop\ces\cpu\src\cpufreqlib.c(57,15): error C2065: “lfence”: 未声明的标识符
+C:\Users\admin\Desktop\ces\cpu\src\cpufreqlib.c(58,15): error C2065: “align”: 未声明的标识符
+C:\Users\admin\Desktop\ces\cpu\src\cpufreqlib.c(58,15): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+C:\Users\admin\Desktop\ces\cpu\src\cpufreqlib.c(60,13): error C2065: “and”: 未声明的标识符
+C:\Users\admin\Desktop\ces\cpu\src\cpufreqlib.c(60,13): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\Users\admin\Desktop\ces\cpu\src\cpufreqlib.c(60,16): error C2065: “ecx”: 未声明的标识符
+C:\Users\admin\Desktop\ces\cpu\src\cpufreqlib.c(60,21): error C2065: “edx”: 未声明的标识符
+C:\Users\admin\Desktop\ces\cpu\src\cpufreqlib.c(61,13): error C2065: “sub”: 未声明的标识符
+C:\Users\admin\Desktop\ces\cpu\src\cpufreqlib.c(61,13): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\Users\admin\Desktop\ces\cpu\src\cpufreqlib.c(61,16): error C2065: “ecx”: 未声明的标识符
+C:\Users\admin\Desktop\ces\cpu\src\cpufreqlib.c(61,21): error C2065: “eax”: 未声明的标识符
+C:\Users\admin\Desktop\ces\cpu\src\cpufreqlib.c(62,12): error C2065: “jg”: 未声明的标识符
+C:\Users\admin\Desktop\ces\cpu\src\cpufreqlib.c(62,12): error C2146: 语法错误: 缺少“;”(在标识符“L2”的前面)
+C:\Users\admin\Desktop\ces\cpu\src\cpufreqlib.c(62,14): error C2065: “L2”: 未声明的标识符
